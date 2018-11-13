@@ -1,0 +1,29 @@
+{
+  "version"           : "1.0.0",
+  "name"              : "Magento2Connector",
+  "marketplaceName"   : {"de": "Mage2Plenty Connector","en": "Mage2Plenty Connector"},
+  "license"           : "AGPL-3.0",
+  "isExternalTool"    : true,
+  "pluginIcon"        : "icon_plugin_xs.png",
+  "price"             : 0.00,
+  "description"       : "Magento2 Connector for plentymarkets",
+  "shortDescription"  : {"de": "Intelligenter 2-Wege-Connector zur Synchronisation von Daten zwischen Magento und plentymarkets","en": "intelligent two way connector that synchronizes data between Magento2 & plentymarkets"},
+  "categories"        : ["3521"],
+  "author"            : "Soft Commerce",
+  "authorIcon"        : "icon_author_xs.png",
+  "email"             : "sales@mage2plenty.com",
+  "phone"             : "+44 800 689 3507",
+  "keywords"          : ["plentymarkets", "plugins", "Magento", "Magento2", "Connector", "Shop"],
+  "type"              : "tool",
+
+  "forwardLink"         : "https://mage2plenty.com/magento-plentymarkets-connector",
+
+  "require"             : [],
+  "namespace"           : "Magento2Connector",
+  "serviceProvider"     : "Magento2Connector",
+  "javaScriptFiles"     : [],
+  "containers"          : [],
+  "dataProviders"       : [],
+  "dependencies"        : [],
+  "runOnBuild"          : []
+}
